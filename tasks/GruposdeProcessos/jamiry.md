@@ -1,9 +1,10 @@
 ## Os grupos de processos são segundo o PMBOK são classificados da seguinte forma
-|---|---|
-|   |   |    
-|Grupos de Processos|	Processos|
+
+
+
 
 |Iniciação|	Desenvolver o termo de abertura e Identificar as partes interessadas|
+|---|---|
 |Planejamento	|Coletar requisitos ; Definir atividades ; Estimar os recursos ;Duração das atividades ;
 	Identificar os riscos|
 |Execução|	Mobilizar a equipe do projeto|
