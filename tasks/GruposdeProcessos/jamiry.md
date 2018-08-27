@@ -7,7 +7,9 @@
 |Execução|Mobilizar a equipe do projeto|
 |Monitoramento e Controle|Controlar o trabalho do Projeto|
 |Encerramento|	Encerrar o projeto ou a fase|
-De acordo com o PMBOK agrupa os processos de gestão de projetos em nove áreas de conhecimento ;
+
+
+## De acordo com o PMBOK agrupa os processos de gestão de projetos em nove áreas de conhecimento ;
 a) Integração : os processos e as atividades que integram os diversos elementos da gestão de projetos, seus objetos são ; estruturar o projeto de forma a atender às necessidades dos envolvidos .
 b) Escopo : Esse inclui todo o trabalho necessário . Seus objetivos são : definir e controlar o que será incluído ou não no projeto.
 c) Tempo : prazo correto .Seus objetivos são : Assegurar que o projeto seja concluído dentro do prazo.
