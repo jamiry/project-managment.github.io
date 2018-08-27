@@ -1,14 +1,11 @@
 ## Os grupos de processos são segundo o PMBOK são classificados da seguinte forma
 
-
-
-
-|Iniciação|	Desenvolver o termo de abertura e Identificar as partes interessadas|
+|Grupos de Processos|Processos|
 |---|---|
-|Planejamento	|Coletar requisitos ; Definir atividades ; Estimar os recursos ;Duração das atividades ;
-	Identificar os riscos|
-|Execução|	Mobilizar a equipe do projeto|
-|Monitoramento e Controle|	Controlar o trabalho do Projeto|
+|Iniciação|Desenvolver o termo de abertura e Identificar as partes interessadas|
+|Planejamento	|Coletar requisitos ; Definir atividades ; Estimar os recursos ;Duração das atividades ;Identificar os riscos|
+|Execução|Mobilizar a equipe do projeto|
+|Monitoramento e Controle|Controlar o trabalho do Projeto|
 |Encerramento|	Encerrar o projeto ou a fase|
 De acordo com o PMBOK agrupa os processos de gestão de projetos em nove áreas de conhecimento ;
 a) Integração : os processos e as atividades que integram os diversos elementos da gestão de projetos, seus objetos são ; estruturar o projeto de forma a atender às necessidades dos envolvidos .
