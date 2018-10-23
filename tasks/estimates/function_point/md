@@ -1,0 +1,11 @@
+# Análise de Ponto de Função
+
+Análise de Ponto de Função é uma técnica de medição do tamanho funcional de um software. 
+Essas funções são operações extraídas dos requisitos funcionais gerados a partir da visão do usuário
+A partir dessa medição é possível estimar o esforço para implementação do sistema utilizando Ponto de Função que é a unidade 
+de medida desta técnica. Ele medir o que o software faz, e não como ele foi construído
+Sobre o estudo desse método é importante destacar que pontos de função não medem diretamente o esforço, produtividade, 
+custo ou outras informações específicas. 
+
+# Objetivo
+
